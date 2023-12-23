@@ -40,15 +40,16 @@ anticheat or antivirus programs.
   by hitting F1 and drawing a selection box around the location data found below the map.
 
 ================ Controls ================
-HOME         - This key sets the position of the mortar based off the current player position
-PGUP / PGDWN - Changes the mortar type
-END          - Close the program
-F1           - Select the text grabbing region for positional changes
-F2           - Manually set target location (deprecated)
-F3           - Manually set Mortar location (deprecated)
-F4           - Set a target
-F5           - Clear all targets
-UP / Down    - Change dispersion by 50m
+
+- HOME         - This key sets the position of the mortar based off the current player position
+- PGUP / PGDWN - Changes the mortar type
+- END          - Close the program
+- F1           - Select the text grabbing region for positional changes
+- F2           - Manually set target location (deprecated)
+- F3           - Manually set Mortar location (deprecated)
+- F4           - Set a target
+- F5           - Clear all targets
+- UP / Down    - Change dispersion by 50m
 
 
 =========== Future Development ===========
