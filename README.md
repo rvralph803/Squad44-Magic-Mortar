@@ -31,7 +31,7 @@ anticheat or antivirus programs.
 - Any target which exceeds the mortar's default range will show an "OUT OF RANGE" indication in its solution box.
 - Dispersion around the intended target is controllable by hitting UP or DOWN on the keyboard and will adjust in 50m increments
   This dispersion will be shown as a +- value next to the MIL or ANGLE values in the Target solution. It will only update as new
-  targets are placed.
+  targets are placed. This feature allows you to target larger areas, knowing your boundary limits.
 - If you would like to clear the current array of targets hit F5
 - END will exit the calculator
 - The program may give pop-ups from time to time prompting you for more information. Occasionally it cannot interpret the position
@@ -52,10 +52,14 @@ anticheat or antivirus programs.
 - F4           - Set a target
 - F5           - Clear all targets
 - UP / Down    - Change dispersion by 50m
+- Shift + INS  - Reboots the calculator entirely
 
 
 =========== Future Development ===========
 
+- Modifying how the dispersion adjustments are displayed for easier use
 - Line based firing with "next in line" feedback
 - CTRL + Click based target setting
 - Visual pips on the mortar reticle that show target Mil and Angle
+- Chat text scraping to allow teammates to request mortar targets by calling out their keypad.  For example "FOB on A14-7-2" would
+  autogenerate a new target based off of the chat to target that fob.
