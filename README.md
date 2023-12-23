@@ -21,8 +21,10 @@ anticheat or antivirus programs.
 - Spawn in and build your mortar location
 - Bring up the main map screen by hitting ENTER on your keyboard. This is the primary resource for all calculations and must be
   visible for the program to extract positional data.
+- The blue box at the top of the screen provides some information about the configuration. It will change as you use it.
 - Hit PGUP to select your mortar type
-- Hit Home to import your mortar position -- you will need to do this any time you change mortar locations
+- Hit Home to import your mortar position -- you will need to do this any time you change mortar locations. You *must* zoom your map
+  out all the way and move your mouse *off of the map* somewhere into another area in the screen before hitting home.
 - Hit F4 to create a target solution for your first target
 - The program will hold up to six (6) targets in memory at the same time. Once additional targets are marked by hitting F4 the
   old targets will be overwritten in order. Most recent target is always highlighted in a dull red.
